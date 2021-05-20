@@ -56,7 +56,7 @@
     </div>
     <!-- /.navbar-collapse --> 
   </div>
-</nav>
+
 <!-- Header -->
 <header id="header">
   <div class="intro">
