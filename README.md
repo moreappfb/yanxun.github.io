@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,14 +43,17 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-
+      <a class="navbar-brand page-scroll" href="#page-top">Interact</a> </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-
+        <li><a href="#features" class="page-scroll">Features</a></li>
         <li><a href="#about" class="page-scroll">About</a></li>
+        <li><a href="#services" class="page-scroll">Services</a></li>
         <li><a href="#portfolio" class="page-scroll">Gallery</a></li>
+        <li><a href="#testimonials" class="page-scroll">Testimonials</a></li>
+        <li><a href="#team" class="page-scroll">Team</a></li>
         <li><a href="#contact" class="page-scroll">Contact</a></li>
       </ul>
     </div>
@@ -63,25 +67,128 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 intro-text">
-            <h1>广州阳讯网络科技有限公司<span></span></h1>
-            <p>我们致力于开发工具软件和互联网产品。公司秉承高效务实创新发展的理念与时代共同进步，与您共建美好未来！</p>
-             </div>
+            <h1>We Are Interact<span></span></h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.</p>
+            <a href="#features" class="btn btn-custom btn-lg page-scroll">Learn More</a> </div>
         </div>
       </div>
     </div>
   </div>
 </header>
 <!-- Features Section -->
-  
+<div id="features" class="text-center">
+  <div class="container">
+    <div class="col-md-10 col-md-offset-1 section-title">
+      <h2>Features</h2>
+    </div>
+    <div class="row">
+      <div class="col-xs-6 col-md-3"> <i class="fa fa-comments-o"></i>
+        <h3>Lorem ipsum</h3>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fa fa-bullhorn"></i>
+        <h3>Dolor sit amet</h3>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fa fa-group"></i>
+        <h3>Tempus eleifend</h3>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fa fa-magic"></i>
+        <h3>Pellentesque</h3>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- About Section -->
-
+<div id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-6"> <img src="img/about.jpg" class="img-responsive" alt=""> </div>
+      <div class="col-xs-12 col-md-6">
+        <div class="about-text">
+          <h2>About Us</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <h3>Why Choose Us?</h3>
+          <div class="list-style">
+            <div class="col-lg-6 col-sm-6 col-xs-12">
+              <ul>
+                <li>Lorem ipsum dolor</li>
+                <li>Tempor incididunt</li>
+                <li>Lorem ipsum dolor</li>
+                <li>Incididunt ut labore</li>
+              </ul>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs-12">
+              <ul>
+                <li>Aliquip ex ea commodo</li>
+                <li>Lorem ipsum dolor</li>
+                <li>Exercitation ullamco</li>
+                <li>Lorem ipsum dolor</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Services Section -->
-
+<div id="services" class="text-center">
+  <div class="container">
+    <div class="section-title">
+      <h2>Our Services</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+    </div>
+    <div class="row">
+      <div class="col-md-4"> <i class="fa fa-wordpress"></i>
+        <div class="service-desc">
+          <h3>Lorem ipsum dolor</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+        </div>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-cart-arrow-down"></i>
+        <div class="service-desc">
+          <h3>Consectetur adipiscing</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-cloud-download"></i>
+        <div class="service-desc">
+          <h3>Lorem ipsum dolor</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"> <i class="fa fa-language"></i>
+        <div class="service-desc">
+          <h3>Consectetur adipiscing</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+        </div>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-plane"></i>
+        <div class="service-desc">
+          <h3>Lorem ipsum dolor</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+        </div>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-pie-chart"></i>
+        <div class="service-desc">
+          <h3>Consectetur adipiscing</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Gallery Section -->
 <div id="portfolio" class="text-center">
   <div class="container">
     <div class="section-title">
       <h2>Gallery</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
     </div>
     <div class="row">
       <div class="portfolio-items">
@@ -171,7 +278,113 @@
   </div>
 </div>
 <!-- Testimonials Section -->
-
+<div id="testimonials">
+  <div class="container">
+    <div class="section-title text-center">
+      <h2>What our clients say</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/01.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."</p>
+            <div class="testimonial-meta"> - John Doe </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/02.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis."</p>
+            <div class="testimonial-meta"> - Johnathan Doe </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/03.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."</p>
+            <div class="testimonial-meta"> - John Doe </div>
+          </div>
+        </div>
+      </div>
+      <div class="row"> </div>
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/04.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."</p>
+            <div class="testimonial-meta"> - Johnathan Doe </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/05.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."</p>
+            <div class="testimonial-meta"> - John Doe </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testimonial">
+          <div class="testimonial-image"> <img src="img/testimonials/06.jpg" alt=""> </div>
+          <div class="testimonial-content">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis."</p>
+            <div class="testimonial-meta"> - Johnathan Doe </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Team Section -->
+<div id="team" class="text-center">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 section-title">
+      <h2>Meet the Team</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+    </div>
+    <div id="row">
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/01.jpg" alt="..." class="team-img">
+          <div class="caption">
+            <h4>John Doe</h4>
+            <p>Director</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/02.jpg" alt="..." class="team-img">
+          <div class="caption">
+            <h4>Mike Doe</h4>
+            <p>Senior Designer</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/03.jpg" alt="..." class="team-img">
+          <div class="caption">
+            <h4>Jane Doe</h4>
+            <p>Senior Designer</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/04.jpg" alt="..." class="team-img">
+          <div class="caption">
+            <h4>Karen Doe</h4>
+            <p>Project Manager</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Contact Section -->
 <div id="contact">
   <div class="container">
@@ -208,21 +421,25 @@
     <div class="col-md-3 col-md-offset-1 contact-info">
       <div class="contact-item">
         <h3>Contact Info</h3>
-        <p><span><i class="fa fa-map-marker"></i> Address</span>
-广州市天河区石牌西路<br>
-          111号1002房(自主申报)</p>
+        <p><span><i class="fa fa-map-marker"></i> Address</span>4321 California St,<br>
+          San Francisco, CA 12345</p>
       </div>
       <div class="contact-item">
-        <p><span><i class="fa fa-phone"></i> Phone</span> 
-+86 13927113235</p>
+        <p><span><i class="fa fa-phone"></i> Phone</span> +1 123 456 1234</p>
       </div>
       <div class="contact-item">
-        <p><span><i class="fa fa-envelope-o"></i> Email</span> Google_Vest_FB@moreapp.com.cn</p>
+        <p><span><i class="fa fa-envelope-o"></i> Email</span> info@company.com</p>
       </div>
     </div>
     <div class="col-md-12">
       <div class="row">
         <div class="social">
+          <ul>
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+          </ul>
         </div>
       </div>
     </div>
@@ -231,7 +448,7 @@
 <!-- Footer Section -->
 <div id="footer">
   <div class="container text-center">
-    <p>Copyright &copy; 2028.Guang zhou yang xun wang luo ke ji you xian gong si All rights reserved.</p>
+    <p>Copyright &copy; 2018.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
   </div>
 </div>
 <script type="text/javascript" src="js/jquery.1.11.1.js"></script> 
