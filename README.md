@@ -1,10 +1,9 @@
-# yanxun.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>广州阳讯网络科技有限公司</title>
+<title>Home</title>
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -56,7 +55,7 @@
     </div>
     <!-- /.navbar-collapse --> 
   </div>
-
+</nav>
 <!-- Header -->
 <header id="header">
   <div class="intro">
