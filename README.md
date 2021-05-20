@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- saved from url=(0214)file:///C:/Users/Administrator/Desktop/%E8%93%9D%E8%89%B2IT%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%81%E4%B8%9A%E5%AE%98%E7%BD%91%E6%A8%A1%E6%9D%BF_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com/moban-180917575140/index.html#about -->
 <html lang="zh-CN" class="nivo-lightbox-notouch translated-ltr" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
