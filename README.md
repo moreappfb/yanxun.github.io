@@ -42,7 +42,7 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">切换导航</font></font></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <a class="navbar-brand page-scroll" href="file:///C:/Users/Administrator/Desktop/%E8%93%9D%E8%89%B2IT%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%81%E4%B8%9A%E5%AE%98%E7%BD%91%E6%A8%A1%E6%9D%BF_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com/moban-180917575140/index.html#page-top"><font style="vertical-align: inherit;"></font></a> </div>
+       </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
